@@ -10,4 +10,4 @@ def Base_footwork
   puts "Finishing with a small skip-step"
 end
 
-def skip-step
+def Small_skip_step
